@@ -6,8 +6,6 @@ int main(){
 	printf("aaaaaaa"\n);
 	printf("aaaaaaa"\n);
 	printf("aaaaaaa"\n);
-	
-wafafsfsssssssasawwqaaaadwda
 
 	printf("aaaaaaa"\n);
 	printf("aaaaaaa"\n);
